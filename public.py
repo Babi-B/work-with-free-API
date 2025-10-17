@@ -1,0 +1,2 @@
+STATUS_FORCE_LIST = [408, 500]
+USER_AGENT = "Just Testing"
